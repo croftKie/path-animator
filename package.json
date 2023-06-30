@@ -1,0 +1,14 @@
+{
+  "name": "path-animator",
+  "version": "1.0.0",
+  "description": "A cardial direction path animation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kieran Croft",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.2"
+  }
+}
